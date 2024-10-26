@@ -1,0 +1,21 @@
+python -download 
+python -m venv env  ----enviorment create
+.\env\Scripts\activate  ---enviorment activate
+deactivate   ---enviorment deactivate
+pip freeze > requirements.txt    -package file mai import karna
+pip install -r requirements.txt    --requirement text ko dekar package install karna
+
+------git and github
+1 git download and github create new account with repositry
+2 control panel -> credential managers remove github account
+3 vs code corner signout and add account with url copy to which browser
+4 git config --global user.name kunalA7garwal 
+   git config --global user.email kunal786agarwal@gmail.com
+   git config --global --list    
+   add these 
+5 after all push and login after credential managers  ->  windows credentials mai aa jaayga account
+note one project mai multiple branch ke liye checkout okhh
+ 
+ 
+   
+
